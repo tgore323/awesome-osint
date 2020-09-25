@@ -275,7 +275,6 @@ Thanks to our main contributors
 * [burrrd.](https://burrrd.com)
 * [Crate](https://getcrate.co)
 * [doesfollow](https://doesfollow.com)
-* [Fake Follower Check](https://fakers.statuspeople.com)
 * [FirstTweet](https://discover.twitter.com/first-tweet#i_intelligence)
 * [First Tweet](http://ctrlq.org/first)
 * [Foller.me](http://foller.me)
